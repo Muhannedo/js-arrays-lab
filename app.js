@@ -80,3 +80,4 @@ for (number of numArrays) {
   }
 }
 console.log("Exercise 15 result:", total);
+
